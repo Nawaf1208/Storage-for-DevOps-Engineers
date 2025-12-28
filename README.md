@@ -1,5 +1,7 @@
 # Storage-for-DevOps-Engineers
 
+![](Storage.png)
+
 **_1.What types of storage are there?_**
 
 - File
